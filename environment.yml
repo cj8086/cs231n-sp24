@@ -42,6 +42,7 @@ dependencies:
       - decorator==5.1.1
       - entrypoints==0.4
       - fonttools==4.38.0
+      - future==1.0.0
       - h5py==3.8.0
       - idna==3.10
       - imageio==2.31.2
