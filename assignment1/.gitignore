@@ -1,0 +1,3 @@
+__pycache__/
+/cs231n/datasets/*
+!/cs231n/datesets/get_datasets.sh
